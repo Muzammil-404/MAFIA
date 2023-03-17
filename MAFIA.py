@@ -1,2 +1,2 @@
 import os
-import Mafia64.so
+import MAFIA.cpython-311.so
