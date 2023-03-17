@@ -1,6 +1,6 @@
 # MAFIA-XD
 
-FREE TOOL
+
 
 <b></b> </br> <br>[![Facebook](https://img.shields.io/badge/Facebook-MAFIA-blue?style=flat-square&logo=facebook)](https://www.facebook.com/muzamil.khan09)<br> [![Whatsapp](https://img.shields.io/badge/Whatsapp-MAFIA-deepgreen?style=flat-square&logo=whatsapp)](https://wa.me/+923091649663)
 
