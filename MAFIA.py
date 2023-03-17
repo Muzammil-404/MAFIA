@@ -1,2 +1,2 @@
 import os
-import Mafia.so
+import Mafia64.so
