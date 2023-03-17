@@ -1,1 +1,2 @@
-import Mafia64.so
+
+import MAFIA_64.cython-311.so
