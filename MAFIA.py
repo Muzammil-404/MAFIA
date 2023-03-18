@@ -1,2 +1,2 @@
 import os
-import Muzammil
+import MAFIA
