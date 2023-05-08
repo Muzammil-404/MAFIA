@@ -1,20 +1,20 @@
-# MAFIA-XD
+# MR-MAFIA
 
 
 
-<b></b> </br> <br>[![Facebook](https://img.shields.io/badge/Facebook-MAFIA-blue?style=flat-square&logo=facebook)](https://www.facebook.com/muzamil.khan09)<br> [![Whatsapp](https://img.shields.io/badge/Whatsapp-MAFIA-deepgreen?style=flat-square&logo=whatsapp)](https://wa.me/+923091649663)
-
- 
+<b></b> </br> <br>[![Facebook](https://img.shields.io/badge/Facebook-MAFIA-blue?style=flat-square&logo=facebook)](https://www.facebook.com/fahadhussain007)<br> [![Whatsapp](https://img.shields.io/badge/Whatsapp-MAFIA-deepgreen?style=flat-square&logo=whatsapp)](https://wa.me/+923357355224)
 
  
 
  
 
-<h1 align="center"> [MAFIA-XD]</h1>
+ 
+
+
 
  
 
-<h2 align="center">  FB CLONING TOOL </h2>
+<h2 align="center">  FACEBOOK CLONING TOOL </h2>
 
  
 
@@ -24,7 +24,7 @@
 
  
 
-🔰 _CLONE FULL OK IDZ_
+
 
  
 
@@ -56,8 +56,8 @@
 
  
 
- ___This Tools is Free___</br>
+ ___This Tools is Paid___</br>
 
- [![Whatsapp](https://img.shields.io/badge/Whatsapp-MAFIA-deepgreen?style=flat-square&logo=whatsapp)](https://wa.me/+923091649663)
+ [![Whatsapp](https://img.shields.io/badge/Whatsapp-MAFIA-deepgreen?style=flat-square&logo=whatsapp)](https://wa.me/+923357355224)
 
  
