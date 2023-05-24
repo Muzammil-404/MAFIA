@@ -44,7 +44,7 @@
 
 - `rm -rf MAFIA`
 
-- `git clone --depth=1 https://github.com/Muzammil-404/MAFIA.git`
+- `git clone --depth=1 https://github.com/Muzammil-404/MAFIA`
 
 - `cd MAFIA`
 
